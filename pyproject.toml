@@ -2,7 +2,6 @@
 name = "api-salesdataset"
 version = "0.1.0"
 description = "FastAPI REST API for the Online Sales Dataset"
-readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi>=0.115.0",
